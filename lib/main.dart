@@ -29,7 +29,7 @@ class _MyAppState extends State<MyApp > {
             ),
           ),
         ),
-        backgroundColor: Colors.white70,
+        backgroundColor: Colors.white30,
       ),
     );
 
